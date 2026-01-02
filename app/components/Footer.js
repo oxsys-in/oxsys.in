@@ -55,7 +55,7 @@ const Footer = () => {
                     </div>
                     <div className="row bfooter ">
                         <div className="col-md-6 copy">
-                            <p>OXSYS – 2023 © All rights reserved</p>
+                            <p>OXSYS – 2026 © All rights reserved | Created by <a href="https://www.dilipmaurya.in/"> Dilip </a></p>
                         </div>
                         <div className="col-md-6 flinks">
                             <a href="#">Privacy Policy</a>
